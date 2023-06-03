@@ -24,5 +24,4 @@ This Assignment has automate user API from Postman using newman
 https://documenter.getpostman.com/view/11419203/2s93mATKTj
 
 ## Report Screenshot
-![ss](https://github.com/salehin10/API-Assingment1/assets/20758039/a79fdff3-299f-4ff8-8f4c-b937c3b1a211)
-
+![report_ss](https://github.com/salehin10/API-Assingment1/assets/20758039/752a14d9-e1e1-4ec6-9330-c18984f86a0c)
