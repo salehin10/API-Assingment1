@@ -7,7 +7,7 @@ This Assignment has automate user API from Postman using newman
 -Postman
 -Newman
 
-##Pre-requisites
+## Pre-requisites
 -Node JS
 
 ## How to run
